@@ -1,0 +1,25 @@
+{
+  "name": "mixpanel-export",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "sync-request": "2.1.0",
+    "md5": "~2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/int32at/mixpanel-export.git"
+  },
+  "author": "Andreas Scharf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/int32at/mixpanel-export/issues"
+  }
+}
