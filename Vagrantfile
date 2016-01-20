@@ -1,4 +1,4 @@
-$name = "mixpanel-export"
+$name = "mixpanel-export-people"
 
 $script = <<SCRIPT
 echo starting installation
