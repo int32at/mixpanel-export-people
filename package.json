@@ -1,7 +1,7 @@
 {
-  "name": "mixpanel-export",
+  "name": "mixpanel-export-people",
   "version": "0.0.1",
-  "description": "",
+  "description": "A Node.js package that can export data from Mixpanel",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/int32at/mixpanel-export.git"
+    "url": "git://github.com/int32at/mixpanel-export-people.git"
   },
   "author": "Andreas Scharf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/int32at/mixpanel-export/issues"
+    "url": "https://github.com/int32at/mixpanel-export-people/issues"
   }
 }
