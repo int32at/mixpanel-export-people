@@ -114,7 +114,7 @@ var MixpanelExporter = function(key, secret) {
 
       data = data.concat(response.results);
 
-      hasResults = false;//response.results.length == 1000;
+      hasResults = response.results.length == 1000;
     }
 
     return data;
