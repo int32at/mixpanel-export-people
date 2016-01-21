@@ -75,4 +75,4 @@ console.log(url);
 ```
 
 ### Notes
-Instead of using the `request` module this script uses the `sync-request` module to retreive the data - which means a calls to `toJson()`, `saveJson()`, ``toCsv()`, `saveCsv()` will be blocking calls. This is because Mixpanel does not provide a method to request different pages in parallel. 
+Instead of using the `request` module this script uses the `sync-request` module to retreive the data - which means a calls to `toJson()`, `saveJson()`, `toCsv()`, `saveCsv()` will be blocking calls. This is because Mixpanel does not provide a method to request different pages in parallel. 
