@@ -14,7 +14,7 @@ Get your `API KEY` and `API SECRET` from your Mixpanel profile and pass them to 
 
 ```js
 //initialize a new mp instance with your mixpanel key and secret
-var mp = new require("../index.js")("API KEY", "API SECRET");
+var mp = new require("mixpanel-export-people")("API KEY", "API SECRET");
 
 //returns the mixpanel users as json objects
 var users = mp.people.toJson();
