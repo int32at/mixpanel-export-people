@@ -1,6 +1,6 @@
 {
   "name": "mixpanel-export-people",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Node.js package that can export data from Mixpanel",
   "main": "index.js",
   "directories": {
