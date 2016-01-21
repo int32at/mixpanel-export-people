@@ -21,5 +21,13 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/int32at/mixpanel-export-people/issues"
-  }
+  },
+  "keywords": [
+    "mixpanel",
+    "mp",
+    "export",
+    "people",
+    "engage",
+    "api"
+  ]
 }
